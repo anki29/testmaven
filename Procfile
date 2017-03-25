@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/testmaven.jar helloworld
+web: java $JAVA_OPTS -cp target/classes com.gobitwheels.testmaven.helloworld
